@@ -1,2 +1,1 @@
-# projecty
-hi
+# PRO-C68-Template
